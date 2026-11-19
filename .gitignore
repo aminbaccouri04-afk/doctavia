@@ -1,0 +1,51 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Flutter and Dart generated files
+doctavia/.dart_tool/
+doctavia/build/
+doctavia/coverage/
+doctavia/.flutter-plugins-dependencies
+doctavia/.pub-cache/
+doctavia/.pub/
+doctavia/android/.gradle/
+doctavia/android/.cxx/
+doctavia/android/captures/
+doctavia/android/local.properties
+doctavia/android/key.properties
+doctavia/android/**/*.keystore
+doctavia/android/**/*.jks
+
+# Generated APK and app bundles
+*.apk
+*.aab
+
+# Node.js dependencies and logs
+doctavia-server/node_modules/
+doctavia-server/npm-debug.log*
+doctavia-server/yarn-debug.log*
+doctavia-server/yarn-error.log*
+
+# Server uploads and runtime files
+doctavia-server/src/uploads/
+doctavia-server/uploads/
+doctavia-server/logs/
+doctavia-server/*.log
+
+# General caches and test output
+coverage/
+node_modules/
+.cache/
+tmp/
+temp/
