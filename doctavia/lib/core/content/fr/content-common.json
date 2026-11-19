@@ -1,0 +1,68 @@
+{
+  "app": {
+    "name": "Doctavia",
+    "logout": "Déconnexion",
+    "testNotification": "Tester les notifications",
+    "testNotificationSub": "Vérifier si les alertes fonctionnent sur votre appareil"
+  },
+  "sections": {
+    "account": "Compte",
+    "personal": "Informations personnelles",
+    "security": "Sécurité",
+    "notifications": "Notifications"
+  },
+  "buttons": {
+    "add": "Ajouter",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "save": "Enregistrer les modifications",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "next": "Suivant",
+    "close": "Fermer",
+    "submit": "Soumettre",
+    "settings": "Paramètres",
+    "tapToChange": "Appuyer pour changer"
+  },
+  "labels": {
+    "preview": "Aperçu",
+    "custom": "Personnalisé",
+    "withDr": "avec le Dr",
+    "delete": "Supprimer",
+    "phoneNumber": "Numéro de téléphone",
+    "location": "Localisation",
+    "am": "AM",
+    "pm": "PM",
+    "unknownPatient": "Patient inconnu",
+    "unknownDoctor": "Médecin inconnu",
+    "unknown": "Inconnu",
+    "doctorPrefix": "Dr",
+    "doctorRole": "Médecin",
+    "secretaryRole": "Secrétaire",
+    "currencySymbol": "€"
+  },
+  "dialogs": {
+    "confirm_title": "Êtes-vous sûr ?",
+    "error_title": "Erreur",
+    "success_title": "Succès"
+  },
+  "status": {
+    "confirmed": "Confirmé",
+    "pending": "En attente",
+    "completed": "Terminé",
+    "cancelled": "Annulé",
+    "checked_in": "Arrivé",
+    "in_progress": "En cours"
+  },
+  "errors": {
+    "generic": "Une erreur s'est produite. Veuillez réessayer.",
+    "openingFile": "Erreur lors de l'ouverture du fichier : ",
+    "uploadingFile": "Erreur lors du chargement du fichier : ",
+    "launchUrl": "Impossible de lancer {url}"
+  },
+  "success": {
+    "appointmentBooked": "Rendez-vous réservé avec succès !",
+    "profileLoaded": "Profil chargé avec succès"
+  }
+}

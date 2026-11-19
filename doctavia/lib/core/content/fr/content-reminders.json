@@ -1,0 +1,36 @@
+{
+  "screen": {
+    "title": "Rappels de médicaments",
+    "addTitle": "Ajouter un médicament",
+    "editTitle": "Modifier le médicament",
+    "import": "Importer depuis les ordonnances",
+    "emptyTitle": "Pas encore de rappels",
+    "emptySub": "Configurez votre programme de médication pour rester sur la bonne voie.",
+    "save": "Enregistrer & Planifier le rappel",
+    "deleteConfirmTitle": "Supprimer le rappel",
+    "deleteConfirmMsg": "Supprimer le rappel \"{name}\" ?",
+    "removeTime": "Supprimer cette heure",
+    "reminderCreated": "Rappel créé pour {name}",
+    "noPrescriptions": "Aucune ordonnance trouvée. Chargez-les d'abord depuis le coffre-fort médical.",
+    "importSub": "Appuyez sur une ordonnance pour créer un rappel avec des réglages par défaut intelligents."
+  },
+  "form": {
+    "medication": "Médicament",
+    "medicationHint": "Entrez le nom du médicament",
+    "dosage": "Posologie",
+    "dosageHint": "ex: 1 comprimé, 5ml",
+    "frequency": "Fréquence",
+    "frequencyHint": "Sélectionnez la fréquence",
+    "times": "Heures de rappel",
+    "addTime": "Ajouter une heure",
+    "alarms": "Alarmes : {times}"
+  },
+  "freq": {
+    "once": "Une fois par jour",
+    "twice": "Deux fois par jour",
+    "thrice": "Trois fois par jour",
+    "four": "Quatre fois par jour",
+    "asNeeded": "Selon les besoins",
+    "custom": "Personnalisé"
+  }
+}

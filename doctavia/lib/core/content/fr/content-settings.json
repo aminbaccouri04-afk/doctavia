@@ -1,0 +1,80 @@
+{
+  "screen": {
+    "title": "Paramètres",
+    "accountProfile": "Compte & Profil",
+    "editProfile": "Modifier le profil",
+    "editProfileSub": "Informations personnelles et identité",
+    "security": "Sécurité",
+    "securitySub": "Mot de passe et sécurité du compte",
+    "practiceManagement": "Gestion du cabinet",
+    "secretaryCode": "Code d'auth secrétaire",
+    "secretaryCodeSub": "Générer un code pour lier le personnel",
+    "supportLegal": "Support & Légal",
+    "helpCenter": "Centre d'aide",
+    "privacyPolicy": "Politique de confidentialité",
+    "workingHours": "Horaires de travail",
+    "version": "Doctavia v1.0.0"
+  },
+  "help": {
+    "title": "Centre d'aide",
+    "greeting": "Comment pouvons-nous vous aider ?",
+    "searchHint": "Rechercher de l'aide...",
+    "popularTopics": "Sujets populaires",
+    "topicBooking": "Comment prendre rendez-vous ?",
+    "topicVault": "Gérer votre coffre-fort médical",
+    "topicPassword": "Réinitialiser votre mot de passe",
+    "topicBilling": "Assurance et facturation",
+    "contactSupport": "Contacter le support",
+    "stillNeedHelp": "Besoin d'aide supplémentaire ?",
+    "supportAvail": "Notre équipe de support est disponible 24h/24 et 7j/7 pour vous assister.",
+    "contactUs": "Contactez-nous"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : Avril 2024",
+    "intro": "Chez Doctavia, nous prenons votre vie privée et la sécurité de vos données médicales très au sérieux. Cette politique explique comment nous collectons, utilisons et protégeons vos informations.",
+    "section1": "1. Collecte de données",
+    "content1": "Nous collectons des informations personnelles telles que votre nom, vos coordonnées et vos antécédents médicaux pour vous fournir des services de santé. Ces données sont cryptées tant au repos qu'en transit.",
+    "section2": "2. Coffre-fort médical",
+    "content2": "Votre coffre-fort médical est votre espace de stockage privé. Seul vous et les prestataires de soins que vous autorisez explicitement peuvent accéder à vos documents et dossiers.",
+    "section3": "3. Partage avec des tiers",
+    "content3": "Nous ne vendons pas vos données personnelles ou médicales à des tiers. Nous partageons uniquement des informations avec des partenaires essentiels à la prestation de services (ex: processeurs de paiement) dans le cadre d'accords de confidentialité stricts.",
+    "section4": "4. Vos droits",
+    "content4": "Vous avez le droit d'accéder, d'exporter ou de supprimer vos données à tout moment. Vous pouvez gérer ces préférences directement depuis les paramètres de votre compte.",
+    "footer": "© 2024 Doctavia Health Systems"
+  },
+  "security": {
+    "title": "Sécurité",
+    "changePassword": "Changer le mot de passe",
+    "lastChanged": "Modifié récemment",
+    "changePasswordDesc": "Veuillez saisir votre mot de passe actuel et en choisir un nouveau.",
+    "oldPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le nouveau mot de passe",
+    "changePasswordSuccess": "Mot de passe modifié avec succès"
+  },
+  "secretary": {
+    "dialogTitle": "Code d'autorisation secrétaire",
+    "dialogSub": "Partagez ce code avec votre secrétaire pour lier son compte à votre cabinet.",
+    "dialogExpire": "Ce code est rotatif et expirera bientôt.",
+    "fetchFailed": "Échec de la récupération du code"
+  },
+  "practice": {
+    "hours": "Heures d'ouverture",
+    "saveSuccess": "Horaires mis à jour avec succès",
+    "generateSuccess": "Créneaux générés pour les 30 prochains jours",
+    "generateAction": "Générer les créneaux (30 jours)",
+    "saveAction": "Enregistrer les horaires",
+    "closed": "Fermé",
+    "to": "à"
+  },
+  "staff": {
+    "title": "Gestion du personnel",
+    "linkedStaff": "Personnel lié",
+    "noStaff": "Aucun membre du personnel n'est actuellement lié.",
+    "linkedAt": "Lié le {date}",
+    "removeConfirmTitle": "Supprimer le membre ?",
+    "removeConfirmMessage": "Cette personne n'aura plus accès à votre agenda et à la gestion des patients.",
+    "removeSuccess": "Membre du personnel supprimé"
+  }
+}

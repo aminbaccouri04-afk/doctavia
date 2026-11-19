@@ -1,0 +1,18 @@
+{
+  "screen": {
+    "title": "Notifications",
+    "markAllRead": "Tout marquer comme lu",
+    "emptyTitle": "Vous êtes à jour !",
+    "emptySub": "Aucune nouvelle notification pour vous."
+  },
+  "medicineChannel": {
+    "name": "Rappels de médicaments",
+    "description": "Notifications d'alarme pour les heures de prise de médicaments"
+  },
+  "permission": {
+    "title": "Autorisations Système",
+    "exactAlarm": "Alarmes et Rappels",
+    "granted": "Autorisé",
+    "denied": "Bloqué (Appuyez pour corriger)"
+  }
+}

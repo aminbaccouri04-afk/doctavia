@@ -1,0 +1,33 @@
+{
+  "screen": {
+    "title": "Facturation & Factures",
+    "doctorTitle": "Revenus & Facturation",
+    "noRecords": "Aucun dossier de facturation trouvé.",
+    "unpaidInvoices": "Factures impayées",
+    "paymentSuccess": "Paiement effectué avec succès",
+    "allSettled": "Bravo ! Toutes les factures sont réglées.",
+    "outstandingQueue": "FILE D'ATTENTE DES IMPAYÉS",
+    "pendingCollections": "{count} encaissements en attente",
+    "totalOutstanding": "Total à payer",
+    "noInvoices": "Aucune facture trouvée.",
+    "consultation": "Consultation Médicale",
+    "payNow": "Payer maintenant",
+    "confirmPayment": "Confirmer le paiement",
+    "confirmPrompt": "Vous êtes sur le point de payer {amount} DZD pour votre consultation.",
+    "confirmButton": "Confirmer & Payer",
+    "cancel": "Annuler"
+  },
+  "invoice": {
+    "doctorLabel": "Médecin",
+    "consultationFee": "Frais de consultation",
+    "dateLabel": "Date : ",
+    "providerFallback": "Prestataire de santé",
+    "paid": "Payé",
+    "unpaid": "Impayé",
+    "unknownPatient": "Patient inconnu",
+    "byDoctor": "Par {name}",
+    "doctorIdFallback": "ID Médecin : {id}",
+    "issuedLabel": "Émis le : {date}",
+    "settleBill": "RÉGLER LA FACTURE"
+  }
+}

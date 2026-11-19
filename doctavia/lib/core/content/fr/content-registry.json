@@ -1,0 +1,23 @@
+{
+  "screen": {
+    "title": "Registre des patients",
+    "queueTitle": "File d'attente des patients",
+    "searchHint": "Rechercher des patients...",
+    "noPatients": "Aucun patient dans le registre aujourd'hui.",
+    "noQueue": "Aucun patient dans la file d'attente.",
+    "refresh": "Actualiser le registre",
+    "checkInSuccess": "Patient enregistré avec succès",
+    "checkIn": "S'enregistrer",
+    "viewVault": "Voir le coffre-fort",
+    "startConsultation": "Démarrer la consultation"
+  },
+  "card": {
+    "unknownPatient": "Patient inconnu",
+    "withDoctor": "Avec le Dr {name}",
+    "slot": "Créneau : {time}",
+    "time": "Heure : {time}",
+    "checkedIn": "ENREGISTRÉ",
+    "consulting": "EN CONSULTATION",
+    "at": "{date} à {time}"
+  }
+}

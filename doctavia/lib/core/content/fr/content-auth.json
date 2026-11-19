@@ -1,0 +1,41 @@
+{
+  "login": {
+    "title": "Doctavia",
+    "subtitle": "Connectez-vous à votre compte",
+    "emailLabel": "Email",
+    "emailHint": "vous@exemple.com",
+    "emailRequired": "L'email est requis",
+    "emailInvalid": "Entrez un email valide",
+    "passwordLabel": "Mot de passe",
+    "passwordHint": "••••••••",
+    "passwordRequired": "Le mot de passe est requis",
+    "submit": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte ? ",
+    "signUp": "S'inscrire"
+  },
+  "signup": {
+    "title": "Créer un compte",
+    "subtitle": "Rejoignez l'écosystème de santé Doctavia",
+    "roleLabel": "Je suis un...",
+    "patient": "Patient",
+    "doctor": "Médecin",
+    "secretary": "Secrétaire",
+    "nameLabel": "Nom complet",
+    "nameHint": "Jean Dupont",
+    "nameRequired": "Le nom est requis",
+    "emailLabel": "Email",
+    "emailHint": "vous@exemple.com",
+    "passwordLabel": "Mot de passe",
+    "passwordHint": "••••••••",
+    "passwordMinLength": "Le mot de passe doit contenir au moins 6 caractères",
+    "dobLabel": "Date de naissance",
+    "dobHint": "AAAA-MM-JJ",
+    "required": "Requis",
+    "authCodeLabel": "Code d'autorisation",
+    "authCodeHint": "Entrez le code de votre médecin",
+    "authCodeRequired": "Le code d'autorisation est requis pour les secrétaires",
+    "submit": "Créer un compte",
+    "haveAccount": "Vous avez déjà un compte ? ",
+    "signIn": "Se connecter"
+  }
+}

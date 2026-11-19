@@ -1,0 +1,49 @@
+name: doctavia
+description: "Doctavia — Healthcare Marketplace"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  http: ^1.2.2
+  shared_preferences: ^2.3.3
+  flutter_secure_storage: ^9.2.3
+  go_router: ^14.6.2
+  flutter_svg: ^2.0.17
+  shimmer: ^3.0.0
+  file_picker: ^8.1.2
+  image_picker: ^1.1.2
+  permission_handler: ^11.3.1
+  http_parser: ^4.1.1
+  flutter_timezone: ^5.0.2
+  intl: ^0.19.0
+  url_launcher: ^6.3.2
+  path_provider: ^2.1.5
+  open_file: ^3.5.11
+  flutter_local_notifications: ^18.0.1
+  android_alarm_manager_plus: ^4.0.6
+  timezone: ^0.10.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  geolocator: ^13.0.2
+  flutter_animate: ^4.5.0
+  flutter_markdown: ^0.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  mocktail: ^1.0.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - lib/core/content/fr/

@@ -1,0 +1,33 @@
+{
+  "screen": {
+    "title": "Analyses du cabinet",
+    "doctorTitle": "Performance du cabinet",
+    "noData": "Aucune donnée de revenu disponible pour le moment.",
+    "revenueTrend": "Tendance des revenus sur 7 jours",
+    "paymentMethod": "Répartition des modes de paiement",
+    "volumeTrend": "Volume de patients (30 derniers jours)",
+    "peakHours": "Heures de réservation les plus chargées",
+    "grossRevenue": "CHIFFRE D'AFFAIRES BRUT",
+    "pendingRevenue": "En attente : $",
+    "avgVisit": "Moyenne / Visite",
+    "growth": "Croissance"
+  },
+  "kpis": {
+    "fulfillment": "Réalisation",
+    "avgRating": "Note moyenne",
+    "totalAppts": "Total Rdv",
+    "reviews": "Avis",
+    "done": "Terminé",
+    "next": "Suivant",
+    "cancel": "Annuler",
+    "status": "Statut du rendez-vous",
+    "volume": "Volume",
+    "rating": "Note",
+    "live": "En direct",
+    "thirtyDay": "30 j"
+  },
+  "charts": {
+    "volumeTitle": "Volume de patients (30 derniers jours)",
+    "busyHoursTitle": "Heures de réservation les plus chargées"
+  }
+}

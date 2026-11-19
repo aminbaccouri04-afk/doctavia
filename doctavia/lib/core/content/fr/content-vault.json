@@ -1,0 +1,66 @@
+{
+  "screen": {
+    "title": "Coffre-fort médical",
+    "uploadNew": "Charger un nouveau document",
+    "selectProfile": "Sélectionnez un profil pour afficher les données.",
+    "noRecords": "Aucun dossier médical",
+    "noRecordsSub": "Chargez vos résultats de laboratoire, scanners ou autres documents médicaux ici.",
+    "uploadSuccess": "Fichier chargé avec succès !",
+    "uploadError": "Erreur lors du chargement du fichier : ",
+    "deleteConfirmTitle": "Supprimer le dossier ?",
+    "deleteConfirmMsg": "Êtes-vous sûr de vouloir supprimer \"{name}\" ? Cette action est irréversible.",
+    "deleteSuccess": "Dossier supprimé avec succès",
+    "accessTransparency": "Transparence d'accès",
+    "tabRecords": "Dossiers",
+    "tabMeds": "Médicaments",
+    "tabTrends": "Tendances"
+  },
+  "metrics": {
+    "glucose": "Glycémie",
+    "weight": "Poids",
+    "bp": "Pression artérielle",
+    "sys": "PA (Sys)",
+    "day": "Jour {n}"
+  },
+  "logs": {
+    "yourRecords": "Vos dossiers",
+    "unknown": "Inconnu"
+  },
+  "trends": {
+    "title": "Trajectoire de santé",
+    "noData": "Aucune donnée de tendance",
+    "noDataSub": "Une fois que vous aurez consulté un médecin ou chargé des résultats cliniques, les tendances de vos marqueurs de santé apparaîtront ici.",
+    "stabilizedMsg": "Vos marqueurs cliniques se sont stabilisés au cours des 30 derniers jours.",
+    "activeMarkers": "Marqueurs de santé actifs",
+    "viewAnalytics": "Voir les analyses détaillées",
+    "journey": "Parcours des 7 derniers jours",
+    "stable": "Stable",
+    "aboutTitle": "À propos des tendances cliniques",
+    "aboutMsg": "Doctavia agrège automatiquement les mesures de santé de vos appareils connectés et vos saisies manuelles. Ces graphiques représentent votre trajectoire de santé longitudinale pour aider votre médecin à fournir des soins personnalisés.",
+    "understood": "Compris"
+  },
+  "prescriptions": {
+    "title": "Ordonnances actives",
+    "noData": "Aucune ordonnance active",
+    "noDataSub": "Vos médicaments actifs et votre historique d'ordonnances apparaîtront ici une fois délivrés par votre médecin.",
+    "issuedOn": "Délivré le {date}"
+  },
+  "labels": {
+    "me": "Moi",
+    "relationship": "Relation",
+    "dosage": "Posologie",
+    "frequency": "Fréquence",
+    "duration": "Durée",
+    "instructions": "Instructions",
+    "active": "Actif"
+  },
+  "audit": {
+    "subtitle": "Qui a accédé à vos dossiers",
+    "error": "Échec du chargement des dossiers d'accès.",
+    "noLogs": "Aucun accès externe enregistré",
+    "noLogsSub": "Vos dossiers n'ont été consultés que par vous.",
+    "action": "Action : {action}",
+    "authorized": "AUTORISÉ",
+    "professional": "Professionnel de santé"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "screen": {
+    "title": "Trouver des médecins",
+    "searchHint": "Rechercher par nom ou clinique...",
+    "searchDoctors": "Rechercher des médecins...",
+    "foundResults": "{count} résultats trouvés",
+    "filterAll": "Tout",
+    "noResults": "Aucun médecin ne correspond aux critères.",
+    "mapView": "Vue Carte",
+    "listView": "Vue Liste",
+    "sortBy": "Trier par",
+    "rating": "Note",
+    "reviews": "Avis",
+    "name": "Nom",
+    "topRated": "Mieux notés",
+    "mostPopular": "Les plus populaires",
+    "nameAZ": "Nom (A-Z)",
+    "doctorNotFound": "Médecin non trouvé",
+    "doctorNotFoundSub": "Impossible de trouver ce profil de médecin.",
+    "bookAppointment": "Prendre rendez-vous",
+    "noSlots": "Aucun créneau disponible pour la réservation en ligne pour le moment.",
+    "selectSlot": "Veuillez d'abord sélectionner un créneau disponible.",
+    "selectService": "Veuillez d'abord sélectionner un service.",
+    "loadingProfiles": "Veuillez patienter, chargement des profils...",
+    "favorites": "Médecins favoris",
+    "noFavorites": "Pas encore de favoris",
+    "noFavoritesSub": "Commencez à explorer les médecins et enregistrez vos favoris ici.",
+    "mapYou": "Vous"
+  },
+  "map": {
+    "permissionDenied": "Permissions refusées définitivement",
+    "permissionNotGranted": "Permissions non accordées",
+    "locationError": "Erreur de localisation",
+    "doctorsNearYou": "Médecins à proximité"
+  },
+  "doctorCard": {
+    "specialist": "Spécialiste",
+    "reviews": "Avis",
+    "experience": "Expérience",
+    "patients": "Patients",
+    "book": "Réserver",
+    "years": "ans",
+    "location": "Localisation",
+    "profileOverview": "Aperçu du profil",
+    "services": "Services Proposés",
+    "availability": "Disponibilité",
+    "availableTimes": "Horaires disponibles",
+    "defaultBio": "Ce spécialiste se consacre à fournir des soins de qualité supérieure, axés sur la médecine factuelle et le bien-être du patient."
+  },
+  "stats": {
+    "experience": "Expérience",
+    "patients": "Patients",
+    "rating": "Note",
+    "new": "Nouveau"
+  },
+  "specialties": {
+    "all": "Tout",
+    "general": "Généraliste",
+    "cardiology": "Cardiologie",
+    "neurology": "Neurologie",
+    "pediatrics": "Pédiatrie",
+    "specialist": "Spécialiste"
+  }
+}

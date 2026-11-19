@@ -1,0 +1,24 @@
+{
+  "screens": [
+    {
+      "title": "Bienvenue sur Doctavia",
+      "subtitle": "Votre portail de santé premium, conçu pour simplifier la gestion de votre pratique médicale.",
+      "image": "assets/undraw_doctor_aum1.svg"
+    },
+    {
+      "title": "Gérez votre cabinet",
+      "subtitle": "Organisez vos rendez-vous, suivez vos patients et optimisez votre emploi du temps en un clic.",
+      "image": "assets/undraw_doctors_djoj.svg"
+    },
+    {
+      "title": "Dossiers Sécurisés",
+      "subtitle": "Accédez instantanément aux antécédents et documents de vos patients en toute sécurité.",
+      "image": "assets/undraw_doctors-orders_a8sv.svg"
+    }
+  ],
+  "buttons": {
+    "next": "Suivant",
+    "skip": "Passer",
+    "getStarted": "Commencer"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "list": {
+    "title": "Mes réservations",
+    "upcoming": "À venir",
+    "past": "Passé",
+    "noUpcoming": "Aucun rendez-vous à venir",
+    "noPast": "Aucun rendez-vous passé"
+  },
+  "card": {
+    "doctorFallback": "Votre médecin",
+    "self": "Moi-même",
+    "appointmentWith": "Rendez-vous avec",
+    "profileLabel": "Profil : ",
+    "consultationSummaryAvailable": "Résumé de consultation disponible",
+    "view": "Voir",
+    "rateReview": "Noter & Avis",
+    "joinConsultation": "Rejoindre la consultation",
+    "reschedule": "Reprogrammer",
+    "details": "Détails",
+    "cancel": "Annuler",
+    "backToList": "Retour à la liste",
+    "summary": "Résumé de consultation",
+    "summaryPlaceholder": "Le patient présentait des symptômes légers. Repos recommandé et augmentation de la consommation de liquides. Suivi dans une semaine si les symptômes persistent.",
+    "close": "Fermer",
+    "provider": "Prestataire de santé",
+    "date": "Date",
+    "time": "Heure",
+    "serviceLabel": "Service",
+    "appointmentId": "ID du rendez-vous"
+  },
+  "booking": {
+    "title": "Prendre rendez-vous",
+    "subtitle": "Réservation d'un créneau avec {name}",
+    "profileLabel": "Profil du patient",
+    "confirm": "Confirmer la réservation"
+  },
+  "consultation": {
+    "title": "Consultation Clinique",
+    "patientLabel": "Patient : ",
+    "soapNotes": "Notes SOAP",
+    "vitals": "Constantes",
+    "prescriptions": "Ordonnances",
+    "complete": "Terminer & Finaliser la consultation",
+    "subjective": "Subjectif",
+    "subjectiveHint": "Plaintes principales du patient, histoire de la maladie actuelle...",
+    "objective": "Objectif",
+    "objectiveHint": "Résultats de l'examen physique, examens des systèmes...",
+    "assessment": "Évaluation",
+    "assessmentHint": "Impression clinique, diagnostics, logique...",
+    "plan": "Plan",
+    "planHint": "Traitement, suivi, tests diagnostiques ordonnés...",
+    "internalNotes": "Notes internes (Privé)",
+    "internalNotesHint": "Notes uniquement visibles par le personnel de la clinique...",
+    "addPrescription": "Ajouter une ordonnance",
+    "medicationName": "Nom du médicament",
+    "dosage": "Posologie",
+    "frequency": "Fréquence",
+    "duration": "Durée",
+    "instructions": "Instructions",
+    "medications": "Médicaments",
+    "noMedications": "Aucun médicament prescrit pour le moment.",
+    "success": "Consultation terminée et enregistrée avec succès"
+  },
+  "cancel": {
+    "title": "Annuler le rendez-vous ?",
+    "message": "Êtes-vous sûr de vouloir annuler ? Cette action est irréversible, mais vous pouvez réserver un nouveau créneau à tout moment.",
+    "confirm": "Oui, Annuler",
+    "keep": "Garder la réservation",
+    "success": "Rendez-vous annulé avec succès",
+    "failed": "Échec de l'annulation du rendez-vous"
+  },
+  "schedule": {
+    "title": "Gérer le planning",
+    "confirmTitle": "Confirmer les créneaux",
+    "confirmMsg": "Ceci va générer {count} créneaux de disponibilité de 30 minutes chacun pour le {date}. Continuer ?",
+    "success": "{count} créneaux créés avec succès !",
+    "recent": "Récemment générés",
+    "noRecent": "Aucun créneau généré récemment.",
+    "booked": "Réservé",
+    "open": "Ouvert"
+  },
+  "review": {
+    "title": "Notez votre visite",
+    "rateTitle": "Noter le Dr {name}",
+    "prompt": "Comment s'est passée votre visite avec le Dr {name} ?",
+    "ratingLabel": "Votre note",
+    "commentLabel": "Votre avis",
+    "commentHint": "Décrivez votre expérience en quelques mots...",
+    "submitButton": "Envoyer l'avis",
+    "successMsg": "Avis envoyé ! Merci.",
+    "submissionFailed": "Échec de l'envoi de l'avis"
+  },
+  "slots": {
+    "start": "Début",
+    "end": "Fin",
+    "generate": "Générer créneaux 30m",
+    "openBlocks": "Blocs de disponibilité ouverts"
+  },
+  "vitals": {
+    "bloodPressure": "Tension artérielle",
+    "heartRate": "Fréquence cardiaque",
+    "temperature": "Température",
+    "weight": "Poids",
+    "units": {
+      "bloodPressure": "mmHg",
+      "heartRate": "bpm",
+      "temperature": "°C",
+      "weight": "kg"
+    }
+  }
+}

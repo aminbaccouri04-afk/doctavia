@@ -1,0 +1,58 @@
+{
+  "doctor": {
+    "title": "Hub des Médecins",
+    "quickActions": "ACTIONS RAPIDES",
+    "appointments": "Rendez-vous",
+    "appointmentsSubtitle": "Liste d'attente & Réservation",
+    "patients": "Patients",
+    "patientsSubtitle": "File d'attente active",
+    "analytics": "Analyses",
+    "analyticsSubtitle": "Revenus & Tendances",
+    "staff": "Accès Staff",
+    "staffSubtitle": "Lien Secrétaire",
+    "greeting": "Bonjour,",
+    "liveInsights": "APERÇU EN DIRECT",
+    "rating": "Note",
+    "done": "Terminé",
+    "pending": "En attente",
+    "dailyOverview": "APERÇU QUOTIDIEN",
+    "hours": "Heures",
+    "authCodeTitle": "Code d'autorisation du staff",
+    "authCodeSubtitle": "Donnez ce code à votre secrétaire pour lier son compte :",
+    "profileUpdateSuccess": "Photo de profil mise à jour !",
+    "profileUpdateFailed": "Échec du chargement",
+    "galleryPermission": "Veuillez activer l'accès à la galerie dans les paramètres de l'application",
+    "defaultPhysician": "Médecin"
+  },
+  "patient": {
+    "greeting": "Salut,",
+    "greetingDefault": "Bonjour !",
+    "upcomingVisit": "Prochaine visite",
+    "noUpcoming": "Aucune visite prévue",
+    "noUpcomingSub": "Les examens réguliers sont essentiels pour maintenir votre santé à long terme.",
+    "bookNow": "Prendre rendez-vous",
+    "findSpecialist": "Trouver un spécialiste",
+    "nearbyDoctors": "Médecins à proximité",
+    "location": "Localisation actuelle",
+    "seeAll": "Voir tout",
+    "noNearby": "Aucun médecin trouvé à proximité",
+    "loadingMsg": "Configuration en cours...",
+    "defaultUser": "Utilisateur"
+  },
+  "secretary": {
+    "title": "Hub de Contrôle Clinique",
+    "today": "Planning d'aujourd'hui",
+    "queueTitle": "File d'attente du jour",
+    "checkedInMsg": "{name} a été enregistré.",
+    "noAppointments": "Aucun rendez-vous prévu pour aujourd'hui."
+  },
+  "activeSession": {
+    "title": "Consultation Active",
+    "withLabel": "Avec {name}",
+    "resume": "REPRENDRE"
+  },
+  "appointment": {
+    "upcoming": "Prochaine visite",
+    "defaultDoctor": "Votre médecin"
+  }
+}

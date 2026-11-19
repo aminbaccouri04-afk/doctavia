@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "schedule": "Planning",
+    "patients": "Patients",
+    "profile": "Profil",
+    "registry": "Registre",
+    "billing": "Facturation",
+    "analytics": "Analyses",
+    "home": "Accueil",
+    "search": "Recherche",
+    "reminders": "Rappels",
+    "bookings": "Réservations"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Doctavia IA",
+  "status": {
+    "analyzing": "Analyse en cours...",
+    "online": "Spécialiste en ligne"
+  },
+  "actions": {
+    "clearChat": "Effacer la discussion",
+    "attach": "Joindre un fichier",
+    "send": "Envoyer"
+  },
+  "emptyState": {
+    "title": "Assistant Clinique Prêt",
+    "subtitle": "Posez vos questions médicales, analysez des résultats d'examens ou révisez vos symptômes. Vous pouvez joindre des images ou des documents."
+  },
+  "input": {
+    "placeholder": "Décrivez vos symptômes...",
+    "analyzeFile": "Analyser le fichier joint"
+  },
+  "labels": {
+    "attachment": "Pièce jointe"
+  }
+}

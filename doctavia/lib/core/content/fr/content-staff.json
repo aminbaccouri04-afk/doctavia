@@ -1,0 +1,9 @@
+{
+  "title": "Gestion du personnel",
+  "linkedStaff": "Personnel lié",
+  "noStaff": "Aucun membre du personnel n'est actuellement lié.",
+  "linkedAt": "Lié le {date}",
+  "removeConfirmTitle": "Supprimer le membre ?",
+  "removeConfirmMessage": "Cette personne n'aura plus accès à votre agenda et à la gestion des patients.",
+  "removeSuccess": "Membre du personnel supprimé"
+}
